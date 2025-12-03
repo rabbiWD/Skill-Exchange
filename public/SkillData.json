@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "If you’ve ever dreamed of playing guitar but never knew where to start, this beginner course is designed just for you. In this detailed learning journey, you’ll start from the very basics — understanding your instrument, how to tune it, how to hold a pick, and how to make your first clean notes. We’ll go step by step through posture, strumming techniques, finger placement, and basic chords like C, D, G, and A minor. By the second week, you’ll already be able to play simple rhythm patterns and transition between chords smoothly. Alongside technical lessons, we’ll discuss the emotional and creative side of playing music — learning how to express yourself through sound, understand rhythm intuitively, and develop your own style. This course also introduces you to reading tabs, understanding chord diagrams, and basic music theory, so you can follow any song sheet or online tutorial in the future. We’ll also work on simple popular songs so that you can play in front of friends or family confidently. Every session includes practice exercises, downloadable sheets, and recorded reference videos to help you follow along. The goal isn’t just to memorize chords, but to fall in love with playing the guitar and make it a lifelong hobby or skill. By the end of this course, you’ll be able to play complete songs with strumming and melody, understand how to practice efficiently, and feel ready to explore intermediate guitar topics such as fingerstyle, barre chords, and improvisation. Whether you’re a student, a working adult, or just someone looking to relax through music, this course will make sure your learning experience is fun, supportive, and rewarding.",
+    "image": "https://i.ibb.co.com/216wxBL9/music.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "In today’s globalized world, English fluency is one of the most valuable skills anyone can develop. This spoken English practice course focuses not only on improving your vocabulary and grammar but also on enhancing your communication confidence. We begin by identifying your current level and creating a customized learning path that helps you progress steadily. You will engage in conversational sessions covering daily life topics such as introducing yourself, talking about hobbies, describing your experiences, and handling small talk naturally. Gradually, we’ll move toward structured dialogues, workplace communication, and public speaking exercises. Through guided pronunciation drills, role-play activities, and real-time feedback, you’ll overcome hesitation and develop fluency that feels natural. The course uses practical techniques — like thinking in English, using filler phrases effectively, and mastering intonation and rhythm — to help you sound more confident and fluent. Every session will include speaking exercises, listening comprehension, and small vocabulary boosters to keep your learning fresh. We’ll also discuss cultural nuances of communication — how to be polite, professional, and expressive while talking in English. The final module includes mock interviews and discussion rounds to prepare you for academic or professional environments. Whether your goal is to perform better in job interviews, improve your presentations, or simply become more confident in daily interactions, this course provides you the safe space to practice and grow. You’ll leave with stronger fluency, better pronunciation, and the ability to express yourself with clarity and confidence.",
+    "image": "https://i.ibb.co.com/NfZWQ8C/language.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Web Development with React",
+    "providerName": "Kevin Ahmed",
+    "providerEmail": "kevin@skillswap.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "This course is a hands-on introduction to building interactive, dynamic web applications using React — one of the most popular JavaScript libraries in the world. You’ll start by learning the fundamentals of HTML, CSS, and JavaScript ES6 to ensure a strong foundation. Then, we’ll move into React concepts such as components, props, and state management. You’ll build your first interactive UI using reusable components and understand how data flows within an app. The lessons also cover hooks like useState, useEffect, and custom hooks, helping you write cleaner and more maintainable code. You’ll integrate APIs to fetch live data and display it dynamically using async functions and conditional rendering. As the course progresses, you’ll explore advanced concepts like React Router for navigation, Context API or Redux for global state management, and form validation for user input. Each section will include small projects like a to-do app, a weather dashboard, or a blog system — giving you real-world practice. You’ll learn modern styling with Tailwind CSS and responsive design techniques to make your apps look beautiful on all devices. Finally, you’ll learn how to deploy your React app using Vercel or Netlify so others can see your work online.",
+    "image": "https://i.ibb.co.com/B2w0NFBm/technology.jpg",
+    "category": "Technology"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Digital Art & Illustration",
+    "providerName": "Lina Rahman",
+    "providerEmail": "lina@skillswap.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Digital art is more than just drawing on a screen — it’s the fusion of imagination, storytelling, and visual design. In this extensive course, we will explore every step of the digital illustration process from sketch to final artwork. You’ll start by learning about digital tools like Procreate and Adobe Photoshop, understanding brush settings, pressure sensitivity, and layer techniques. We’ll dive deep into sketching fundamentals such as proportion, perspective, and gesture drawing, helping you build a strong base before adding color. The course emphasizes creativity over perfection, encouraging you to find your unique art style. You’ll learn color theory — how to choose palettes that evoke emotion, lighting and shadow to bring depth, and composition principles to make your art visually compelling. Beyond technical skills, we’ll discuss storytelling through art: how to convey mood, emotion, and character personality visually. You’ll create themed artworks, fan art, portraits, and original character designs through guided projects.",
+    "image": "https://i.ibb.co.com/DPZyGzSp/design.jpg",
+    "category": "Design"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Arjun Das",
+    "providerEmail": "arjun@skillswap.com",
+    "price": 15,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "This beginner-friendly yoga program is crafted to help you build flexibility, strength, and mental peace through gentle, guided practice. The course begins by introducing the philosophy of yoga — understanding the connection between body, mind, and breath. You’ll start with foundational poses (asanas) that improve posture and balance, like Mountain Pose, Downward Dog, and Warrior I. Each week, we’ll gradually progress to more dynamic sequences designed to enhance stamina and coordination. Alongside physical movement, we’ll practice pranayama (breathing techniques) to increase lung capacity, reduce stress, and promote mindfulness. You’ll learn how to align each posture safely, listen to your body, and practice yoga as a personal journey rather than competition. Meditation sessions will help you improve focus and emotional balance. The course also includes modules on morning and evening routines, stretching for office workers, and yoga for relaxation before sleep. Even if you’ve never done yoga before, you’ll find every session beginner-friendly and adaptable..",
+    "image": "https://i.ibb.co.com/Z6gvwfW6/health.jpg",
+    "category": "Health & Fitness"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Basic Photography Skills",
+    "providerName": "Nora Hasan",
+    "providerEmail": "nora@skillswap.com",
+    "price": 12,
+    "rating": 4.4,
+    "slotsAvailable": 5,
+    "description": "Photography is the art of capturing moments, emotions, and stories through the lens. In this beginner photography course, you’ll learn how to use your camera as a creative tool rather than just a device. We’ll begin with the basics — understanding exposure, aperture, shutter speed, and ISO — and how they work together to produce perfectly balanced images. You’ll explore composition techniques like the rule of thirds, framing, leading lines, and depth to make your photos visually appealing. We’ll practice indoor and outdoor photography, experimenting with natural light, artificial lighting, and shadows to understand how light shapes emotion. The course will also teach you how to shoot portraits, landscapes, and lifestyle shots that tell a story. You’ll receive guidance on photo editing using software like Lightroom and Snapseed, learning color correction, cropping, and retouching techniques to polish your images. By the end of the program, you’ll be able to take stunning photos confidently, whether using a DSLR, mirrorless camera, or smartphone.",
+    "image": "https://i.ibb.co.com/0jtwNf13/creative.jpg",
+    "category": "Creative Arts"
+  }
+]

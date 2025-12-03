@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Martin",
+    "skill": "Guitar Lessons",
+    "rating": 4.9,
+    "students": 120,
+    "image": "https://i.ibb.co.com/216wxBL9/music.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sophia Lee",
+    "skill": "Digital Painting",
+    "rating": 4.8,
+    "students": 90,
+    "image": "https://i.ibb.co.com/DPZyGzSp/design.jpg"
+  },
+  {
+    "id": 3,
+    "name": "David Chen",
+    "skill": "Web Development",
+    "rating": 5.0,
+    "students": 200,
+    "image": "https://i.ibb.co.com/B2w0NFBm/technology.jpg"
+  }
+]
